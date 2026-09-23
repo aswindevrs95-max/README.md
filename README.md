@@ -25,7 +25,7 @@ I am deeply fascinated by how systems operate at a fundamental hardware level an
 
 ## 🚀 Future Goals
 * 🛠️ **Mastering Electronics Engineering:** Evolve from a curious tinkerer into a hardcore electronics engineer, mastering the intricacies of control systems, embedded tech, and automation.
-**Robotics & IoT Projects:** Build smart, autonomous systems integrating microcontrollers, real-time sensors, and low-latency communication protocols.
+* **Robotics & IoT Projects:** Build smart, autonomous systems integrating microcontrollers, real-time sensors, and low-latency communication protocols.
 * 💼 **Core Industry Experience:** Land high-impact internships in embedded systems, automation, or signal processing to bridge academic theory with cutting-edge industry practice
 
 
