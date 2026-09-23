@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I am an aspiring engineering student based in Thir
 ## 💻 Technical Skills
 
 | **Web Development** | HTML, CSS, Java Script, Python Basics|
-| **Low Level Languages **| Basic Knowledge Regarding C/C++|
+| **Low Level Languages** | Basic Knowledge Regarding C/C++|
 | **Core Foundations** | Mathematics, Physics, Analytical Problem Solving |
 | **Tools** | Git, GitHub, VS Code, PythonIdle |
 
@@ -18,6 +18,7 @@ I am deeply fascinated by how systems operate at a fundamental hardware level an
 * | Electronics & Communication Engineering (ECE) | VLSI Designing & Semiconductor Physics |
 * | Control Systems | Automation & Robotics |
 * | Embedded Systems & Signal Processing |
-## 🤝 Let's Connect!
-[![LinkedIn](https://www.linkedin.com/in/aswindev-r-s-531aaa438?utm_source=share_via&utm_content=profile&utm_medium=member_android)]
+
+# 🤝 Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/aswindev-r-s-531aaa438?utm_source=share_via&utm_content=profile&utm_medium=member_android])
 📧 Email me at: [[aswindevrs95@gmail.com]](mailto:[aswindevrs95@gmail.com])
